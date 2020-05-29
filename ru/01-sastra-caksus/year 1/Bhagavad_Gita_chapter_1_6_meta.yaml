@@ -1,0 +1,20 @@
+title:
+  - type: main
+    text: Пособие по изучению Бхагавад-гиты Главы 1-6
+  - type: subtitle
+    text: Курс «Шастра-чакшуш» 1-й год
+creator:
+  - role: author
+    text: H.H. Bhakti Vidya Purna Swami
+  - role: translators
+    text: H.G. Jagadish das, H.G. Jugala Prithi dd
+  - role: editor
+    text: Ananta Ram das
+#identifier:
+#  - scheme: DOI
+#    text: doi:10.234234.234/33
+publisher:  Gurukula Library Building, Nadia Dist, 742 313, West Bengal, India
+rights: © 2020 Bhaktivedanta Academy, ISKCON Mayapur
+ibooks:
+  version: 0.0.1
+cover-image: Bhagavad_Gita_chapter_1_6_cover.png

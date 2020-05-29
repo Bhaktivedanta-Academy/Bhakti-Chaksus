@@ -1,2 +1,1 @@
-
-pandoc -f MARKDOWN -t EPUB -o BG\ chapter\ 1-6\ final_orig.epub BG\ chapter\ 1-6\ final.md
+pandoc -f MARKDOWN -t EPUB -o Bhagavad_Gita_chapter_1_6.epub --metadata-file=Bhagavad_Gita_chapter_1_6_meta.yaml  Bhagavad_Gita_chapter_1_6.md
